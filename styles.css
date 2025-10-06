@@ -100,8 +100,9 @@ main {
 .project {
   display: flex;
   flex-direction: row;
-  max-width: 100%;
-  margin: 1em 0 2em 0;
+  max-width: 900px;
+  width: 100%;
+  margin: 1em auto 2em auto;
 
   /* Debug border */
   /* border: 2px solid blue; */
